@@ -1,3 +1,3 @@
-```
+```bash
 ./lradio.sh <TAB>
 ```
