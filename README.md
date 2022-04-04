@@ -3,9 +3,11 @@ Requirements:
 vlc
 ```
 
+Usage:
 ```bash
 ./listen radio/<TAB>
 ```
+
 Example:
 
 ```bash
