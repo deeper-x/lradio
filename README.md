@@ -1,8 +1,13 @@
+Requirements:
 ```bash
-./lradio.sh radio/<TAB>
+vlc
+```
+
+```bash
+./listen radio/<TAB>
 ```
 Example:
 
 ```bash
-./lradio.sh radio/deejay
+./listen radio/deejay
 ```
